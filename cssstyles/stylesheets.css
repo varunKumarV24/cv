@@ -1,0 +1,39 @@
+body
+{
+  margin:0;
+  text-align: center;
+
+}
+h1
+{
+ margin-top: 0px;
+ font-family: 'Dancing Script', cursive;
+}
+.top-container
+{
+  background-color: #EAF6F6;
+}
+.m-container
+{
+  text-align: center;
+  background-color: #EAF6F6;
+}
+.b-container
+{
+  text-align: center;
+  background-color: #EAF6F6;
+}
+.top-cloud
+{
+  width: 150px;
+  position: absolute;
+  right: 300px;
+  bottom: 580px;
+}
+.b-cloud
+{
+  position: absolute;
+  width:150px;
+  left: 300px;
+  bottom: 400px;
+}
